@@ -15,3 +15,5 @@ I am Afolabi Temidayo Timothy, a System Software Developer based on C#, Python a
   <a href="https://www.facebook.com/profile.php?id=100056265665208"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://twitter.com/afolabitemidee"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/afolabi-temidayo-timothy-6ab2261a5"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
+<!-- ![](https://komarev.com/ghpvc/?username=afolabi8120&label=PROFILE+VIEWS) I purposely comment this out 😂😂 it wasn't encouraging --!>
