@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Afolabi Temidayo Timothy, a System Software Developer based on C#, Python and MySQL
+I am Afolabi Temidayo Timothy, a Software Developer focused on C#, Python, PHP and MySQL
 
 # Skills 👨🏾‍💻
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
