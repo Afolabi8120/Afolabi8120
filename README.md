@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Afolabi Temidayo Timothy, a Software Developer focused on C#, Python, PHP and MySQL
+I am Afolabi Temidayo Timothy, a Software Developer focused on C#, PHP and MySQL
 
 # Skills 👨🏾‍💻
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">-->
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -17,3 +17,5 @@ I am Afolabi Temidayo Timothy, a Software Developer focused on C#, Python, PHP a
   <a href="https://www.linkedin.com/in/afolabi-temidayo-timothy-6ab2261a5"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
 <!-- ![](https://komarev.com/ghpvc/?username=afolabi8120&label=PROFILE+VIEWS) I purposely comment this out 😂😂 it wasn't encouraging --!>
+
+
