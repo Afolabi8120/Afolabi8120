@@ -7,6 +7,7 @@ I am Afolabi Temidayo Timothy, a Software Developer focused on C#, PHP and MySQL
   <!--<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">-->
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-0077B5?style=for-the-badge&logo=php&logoColor=white">
 
 # Contact Me 📲
   <a href="https://wa.me/+2348090949669"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
