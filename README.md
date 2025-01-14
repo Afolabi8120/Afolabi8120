@@ -1,6 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
-I am Afolabi Temidayo Timothy, a Software Developer focused on C#, PHP, REST API and MySQL
+I’m Temidayo, a developer skilled in PHP, Node.js, C#, and REST API development. I focus on creating robust web applications and efficient server-side solutions, leveraging best practices and clean code. I enjoy tackling complex challenges and am always eager to learn in this dynamic tech landscape.
+
+Explore my repositories, and feel free to reach out for questions, collaboration, or simply to connect! Let's build something great together! 🚀
 
 # Skills 👨🏾‍💻
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -8,6 +10,7 @@ I am Afolabi Temidayo Timothy, a Software Developer focused on C#, PHP, REST API
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-0077B5?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Node-0077B5?style=for-the-badge&logo=php&logoColor=white">
 
 # Contact Me 📲
   <a href="https://wa.me/+2347049269626"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
